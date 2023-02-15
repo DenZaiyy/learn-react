@@ -1,5 +1,5 @@
 # Tutorial - Learn reactJS from scratch
-## Preview
+## Rendering preview
 [First React App - Hosted by Netlify](https://firstreact-app.netlify.app/)
 
 ## Ressource
